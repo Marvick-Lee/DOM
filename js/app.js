@@ -56,11 +56,6 @@ function createNavbar() {
 }
 
 // Add class 'active' to section when near top of viewport
-// onscroll(){
-//     for(let i=0; i<sectionList ;i++){
-//         if 
-//     }
-// }
  
 // Scroll to anchor ID using scrollTO event
  
